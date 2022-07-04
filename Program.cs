@@ -2,6 +2,7 @@
 using xadrez_console.xadrez;
 namespace xadrez_console
 {
+    //jogada especial roque grande roque pequeno
     class Program
     {
         static void Main(string[] args)
